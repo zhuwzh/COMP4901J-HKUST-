@@ -4,3 +4,4 @@ Once you have the starter code, you will need to download the CIFAR-10 dataset. 
 cd cs231n/datasets folder and click get_datasets.py to run the Python code to download the data.
 
 ## Details:
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #2 of Spring 2017.
